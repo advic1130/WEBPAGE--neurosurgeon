@@ -159,7 +159,7 @@ document.addEventListener('DOMContentLoaded', function() {
             description: 'A comprehensive guide to recognizing brain tumor symptoms and understanding the various surgical and non-surgical treatment options available today.'
         },
         {
-            image: "Whats_App_Image_2024_08_26_at_17_18_33_09be06e347.jpg",
+            image: 'Whats_App_Image_2024_08_26_at_17_18_33_09be06e347.jpg',
             date: 'March 10, 2023',
             readTime: '6 min read',
             title: 'Scoliosis in Adults: Diagnosis and Modern Treatment Approaches',
@@ -406,5 +406,6 @@ document.addEventListener('DOMContentLoaded', function() {
     initializeAll();
 
 });
+
 
 
