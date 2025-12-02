@@ -238,7 +238,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             blogCard.innerHTML = `
                 <div class="blog-image">
-                    <img src="images\home.webp" alt="${blog.title}" loading="lazy">
+                     <img src="${blog.image}" alt="${blog.title}">
                 </div>
                 <div class="blog-content">
                     <div class="blog-meta">
@@ -406,6 +406,7 @@ document.addEventListener('DOMContentLoaded', function() {
     initializeAll();
 
 });
+
 
 
 
