@@ -145,7 +145,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // ===== BLOG DATA =====
     const blogData = [
         {
-            image: 'images (3).jfif',
+            image: "images (3).jfif",
             date: 'May 15, 2023',
             readTime: '5 min read',
             title: 'Advancements in Minimally Invasive Spine Surgery',
@@ -406,3 +406,4 @@ document.addEventListener('DOMContentLoaded', function() {
     initializeAll();
 
 });
+
