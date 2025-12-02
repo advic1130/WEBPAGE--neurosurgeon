@@ -145,21 +145,21 @@ document.addEventListener('DOMContentLoaded', function() {
     // ===== BLOG DATA =====
     const blogData = [
         {
-            image: 'images/blog-1.jfif',
+            image: 'images (3).jfif',
             date: 'May 15, 2023',
             readTime: '5 min read',
             title: 'Advancements in Minimally Invasive Spine Surgery',
             description: 'Exploring the latest techniques that are revolutionizing spine surgery, allowing for faster recovery and reduced pain for patients with spinal disorders.'
         },
         {
-            image: "images\know-your-doctor.jpg",
+            image: "know-your-doctor.jpg",
             date: 'April 28, 2023',
             readTime: '7 min read',
             title: 'Understanding Brain Tumors: Symptoms & Treatment Options',
             description: 'A comprehensive guide to recognizing brain tumor symptoms and understanding the various surgical and non-surgical treatment options available today.'
         },
         {
-            image: 'images\Whats_App_Image_2024_08_26_at_17_18_33_09be06e347.jpeg',
+            image: 'Whats_App_Image_2024_08_26_at_17_18_33_09be06e347.jpeg',
             date: 'March 10, 2023',
             readTime: '6 min read',
             title: 'Scoliosis in Adults: Diagnosis and Modern Treatment Approaches',
@@ -404,4 +404,5 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Initialize everything
     initializeAll();
+
 });
